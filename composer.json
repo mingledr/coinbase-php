@@ -4,7 +4,6 @@
     "keywords": [ "bitcoin", "coinbase" ],
     "homepage": "http://coinbase.com",
     "type": "library",
-    "version":"1.0",
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": { "Coinbase\\Wallet\\": "src/" }
